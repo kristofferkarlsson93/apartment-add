@@ -23,4 +23,8 @@ h1 {
 .primary-background-color {
   background-color: #82D4BB;
 }
+.text {
+  text-align: justify;
+  padding: 5%;
+}
 </style>

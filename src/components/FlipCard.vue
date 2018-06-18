@@ -30,7 +30,7 @@ export default {
 </script>
 
 <style scoped>
-.icon {
-  color: green;
+.icon:hover {
+  color: #82D4BB;
 }
 </style>

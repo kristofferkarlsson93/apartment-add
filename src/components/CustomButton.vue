@@ -1,5 +1,5 @@
 <template>
-  <div class="button md-elevation-6" @click="onClick">
+  <div class="button md-elevation-3" @click="onClick">
     {{title}}
   </div>
 </template>
